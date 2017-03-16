@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Bienvenido</string>
+    <string name="btn" translatable="false">Entrar</string>
+</resources>
